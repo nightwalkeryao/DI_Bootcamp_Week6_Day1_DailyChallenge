@@ -1,0 +1,1 @@
+# DI Bootcamp - Week 6 - Day 1 - Daily Challenge: Data Types
